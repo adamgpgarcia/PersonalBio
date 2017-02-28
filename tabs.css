@@ -1,0 +1,93 @@
+
+body {
+    background-image: url("https://35697c48bsru38ben02wk1cr-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/White_Polygon_Background_BIG_DarkEdges-min.jpg");
+    }
+
+
+h1 {
+  font-size: 300%;
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+img {
+    border: 6px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 150px;
+}
+
+.clay {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.left {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #000099;
+}
+
+div.transbox {
+  margin: 50px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  filter: alpha(opacity=60);
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th {
+    height: 50px;
+}
+
+.center {
+    text-align: center;
+}
+
+.blue {
+  color: #000099;
+}
+
+tr:nth-child(even) {
+background-color: #777;
+color: #fff; }
+
+div p {
+    background-color: #b3d9ff;
+}
+
+header {
+    padding: 1em;
+    color: black;
+    background-color: #808080;
+    clear: left;
+    text-align: center;
+}
